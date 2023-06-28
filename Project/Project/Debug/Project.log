@@ -1,0 +1,27 @@
+﻿  FILELIST.c
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\FILELIST.c(109,8): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\FILELIST.c(118,56): warning C4133: “=”: 从“Media_t *”到“List_t *”的类型不兼容
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\FILELIST.c(120,52): warning C4133: “=”: 从“Media_t *”到“List_t *”的类型不兼容
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\FILELIST.c(140,13): warning C4133: “return”: 从“List_t *”到“Media_t *”的类型不兼容
+  main.c
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\main.c(50,33): warning C4133: “函数”: 从“List_t *”到“Media_t *”的类型不兼容
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\main.c(50,34): warning C4133: “=”: 从“List_t *”到“Media_t *”的类型不兼容
+  PLAYGUI.c
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYGUI.c(80,16): warning C4013: “kbhit”未定义；假设外部返回 int
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYGUI.c(111,14): warning C4013: “getch”未定义；假设外部返回 int
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYGUI.c(46,6): warning C4101: “a”: 未引用的局部变量
+  PLAYLIST.c
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYLIST.c(28,8): warning C4013: “strcpy”未定义；假设外部返回 int
+  PLAYMUSIC.c
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(129,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(121,6): warning C4101: “a”: 未引用的局部变量
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(154,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(146,6): warning C4101: “a”: 未引用的局部变量
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(185,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(217,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(244,26): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码...
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(61): warning C4715: “getLast”: 不是所有的控件路径都返回值
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\PLAYMUSIC.c(258): warning C4715: “random”: 不是所有的控件路径都返回值
+D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Project\FILELIST.c(102): warning C4715: “GetChoice_List”: 不是所有的控件路径都返回值
+  Project.vcxproj -> D:\学习\学校课设啥的\MP3音乐播放器\3.工程源码\MP3\Project\Debug\Project.exe

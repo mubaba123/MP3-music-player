@@ -1,0 +1,98 @@
+﻿  main.c
+  PLAYGUI.c
+D:\桌面\MP3\Project\Project\PLAYGUI.c(35,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(97,21): warning C4133: “函数”: 从“char [50]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(97,26): warning C4133: “函数”: 从“char [50]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(108,21): warning C4133: “函数”: 从“char [50]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(108,26): warning C4133: “函数”: 从“char [50]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(111,16): warning C4013: “kbhit”未定义；假设外部返回 int
+D:\桌面\MP3\Project\Project\PLAYGUI.c(112,22): warning C4133: “函数”: 从“char [50]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(112,27): warning C4133: “函数”: 从“char [50]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYGUI.c(142,14): warning C4013: “getch”未定义；假设外部返回 int
+D:\桌面\MP3\Project\Project\PLAYGUI.c(94,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(95,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(96,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(106,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(107,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYGUI.c(77,6): warning C4101: “a”: 未引用的局部变量
+  PLAYLIST.c
+D:\桌面\MP3\Project\Project\PLAYLIST.c(20,32): warning C4013: “malloc”未定义；假设外部返回 int
+D:\桌面\MP3\Project\Project\PLAYLIST.c(20,56): warning C4312: “类型强制转换”: 从“int”转换到更大的“Media_t *”
+D:\桌面\MP3\Project\Project\PLAYLIST.c(22,51): warning C4312: “类型强制转换”: 从“int”转换到更大的“media *”
+D:\桌面\MP3\Project\Project\PLAYLIST.c(22,51): warning C4133: “=”: 从“media *”到“Media_t *”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYLIST.c(25,8): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\桌面\MP3\Project\Project\PLAYLIST.c(26,40): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+D:\桌面\MP3\Project\Project\PLAYLIST.c(38,54): warning C4312: “类型强制转换”: 从“int”转换到更大的“Media_t *”
+D:\桌面\MP3\Project\Project\PLAYLIST.c(75,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYLIST.c(89,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PLAYMUSIC.c
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(23,19): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(25,19): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(18,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(22,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(24,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(68,15): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“Media_t *”
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(70,20): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(68,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(69,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(80,20): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(78,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(79,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(91,19): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(91,26): warning C4133: “函数”: 从“char [20]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(88,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(89,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(90,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(102,20): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(100,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(101,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(121,7): warning C4013: “play”未定义；假设外部返回 int
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(112,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(110,6): warning C4101: “a”: 未引用的局部变量
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(143,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(143,26): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(151,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(140,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(141,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(142,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(147,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(148,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(149,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(150,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(139,6): warning C4101: “a”: 未引用的局部变量
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(168,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(168,26): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(176,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(165,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(166,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(167,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(172,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(173,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(174,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(175,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(164,6): warning C4101: “a”: 未引用的局部变量
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(199,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(199,25): warning C4133: “函数”: 从“char [100]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(205,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(208,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(192,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(194,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(195,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(197,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(198,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(203,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(204,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(207,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(231,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(231,25): warning C4133: “函数”: 从“char [100]”到“LPWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(237,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(240,21): warning C4133: “函数”: 从“char [100]”到“LPCWSTR”的类型不兼容
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(224,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(226,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(227,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(229,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(230,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(235,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(236,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\MP3\Project\Project\PLAYMUSIC.c(239,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
